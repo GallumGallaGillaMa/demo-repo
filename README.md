@@ -1,3 +1,3 @@
 # Demo 
 
-Github demonstration project
+Github demonstration project.
